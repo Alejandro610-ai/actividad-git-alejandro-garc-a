@@ -1,0 +1,3 @@
+Actividad de Git
+Autor: Alejandro García
+Versión: 1
