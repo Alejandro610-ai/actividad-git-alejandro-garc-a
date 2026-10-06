@@ -8,3 +8,4 @@ Estado: En progreso
 Herramienta: Git
 Cambio realizado en desarrollo 1
 Cambio realizado en desarrollo 2
+Modificación hecha desde github
