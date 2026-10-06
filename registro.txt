@@ -7,3 +7,4 @@ Actividad: Control de versiones
 Estado: En progreso
 Herramienta: Git
 Cambio realizado en desarrollo 1
+Cambio realizado en desarrollo 2
